@@ -1,0 +1,23 @@
+# ---- Build artifacts ----
+*.o
+*.obj
+*.exe
+*.out
+a.out
+campusmate
+campusmate.exe
+
+# ---- Runtime data (user accounts, grades, etc. are personal) ----
+campusmate_data/
+
+# ---- IDE / Editor ----
+.vscode/
+.idea/
+*.code-workspace
+*.swp
+*~
+
+# ---- OS junk ----
+.DS_Store
+Thumbs.db
+desktop.ini
