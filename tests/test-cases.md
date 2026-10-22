@@ -3,7 +3,7 @@
 > **Project Note:** As this is a prototype/demo version, our testing focused on verifying the core rules (like the UPSA email restriction), the editing flows after login, and checking for cross-device compatibility. Some advanced features were not fully programmed for this demo.
 
 **Tester:** Melissa Adjarkie Adjanor, Cadnel-Morrel Darteyvi Mensah, Joshua Apre Yaw, Nana Yaw Obeng Forson, Samuel Duku Yeboah
-**Date:** July 2026
+**Date:** July - August 2026
 
 **Legend:** ✅ Passed · ❌ Failed · ⚠️ Passed with caveat (bug found / partial feature)
 
